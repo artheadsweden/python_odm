@@ -1,0 +1,16 @@
+{
+  "title": "This is a post",
+  "url": "http:/....",
+  "content": "Bla bla bla",
+  "status": "pending",
+  "authors": [
+    {
+      "name": "Pelle",
+      "email": "pelle@email.com"
+    },
+    {
+      "name": "Anna",
+      "email": "anna@email.com"
+    }
+  ]
+}
